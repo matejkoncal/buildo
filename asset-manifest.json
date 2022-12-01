@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/buildo.github.io/static/css/main.5114516b.css",
-    "main.js": "/buildo.github.io/static/js/main.47752b54.js",
+    "main.js": "/buildo.github.io/static/js/main.716ca1af.js",
     "static/media/left-login-screen.svg": "/buildo.github.io/static/media/left-login-screen.335e7bef573b47e387eef0781f095507.svg",
     "static/media/right-logo.svg": "/buildo.github.io/static/media/right-logo.540a8f970dd299022bc38c32c60a9119.svg",
     "static/media/buildo.svg": "/buildo.github.io/static/media/buildo.89225408ef5e4599d29cc45b637035ae.svg",
     "static/media/buildo-login.svg": "/buildo.github.io/static/media/buildo-login.cfb0911b5b363b7ba71bd97fca218b2a.svg",
     "index.html": "/buildo.github.io/index.html",
     "main.5114516b.css.map": "/buildo.github.io/static/css/main.5114516b.css.map",
-    "main.47752b54.js.map": "/buildo.github.io/static/js/main.47752b54.js.map"
+    "main.716ca1af.js.map": "/buildo.github.io/static/js/main.716ca1af.js.map"
   },
   "entrypoints": [
     "static/css/main.5114516b.css",
-    "static/js/main.47752b54.js"
+    "static/js/main.716ca1af.js"
   ]
 }
