@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/buildo/static/css/main.5a1dddb5.css",
-    "main.js": "/buildo/static/js/main.17399a9d.js",
+    "main.js": "/buildo/static/js/main.61aa313e.js",
     "static/media/left-login-screen.svg": "/buildo/static/media/left-login-screen.335e7bef573b47e387eef0781f095507.svg",
     "static/media/right-logo.svg": "/buildo/static/media/right-logo.540a8f970dd299022bc38c32c60a9119.svg",
     "static/media/buildo.svg": "/buildo/static/media/buildo.89225408ef5e4599d29cc45b637035ae.svg",
     "static/media/buildo-login.svg": "/buildo/static/media/buildo-login.cfb0911b5b363b7ba71bd97fca218b2a.svg",
     "index.html": "/buildo/index.html",
     "main.5a1dddb5.css.map": "/buildo/static/css/main.5a1dddb5.css.map",
-    "main.17399a9d.js.map": "/buildo/static/js/main.17399a9d.js.map"
+    "main.61aa313e.js.map": "/buildo/static/js/main.61aa313e.js.map"
   },
   "entrypoints": [
     "static/css/main.5a1dddb5.css",
-    "static/js/main.17399a9d.js"
+    "static/js/main.61aa313e.js"
   ]
 }
