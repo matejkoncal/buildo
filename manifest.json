@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Buildo App",
+  "name": "Webclient for Buildo",
   "icons": [
     {
       "src": "favicon.ico",
